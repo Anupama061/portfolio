@@ -51,7 +51,7 @@ class PortfolioData {
   static const String title = 'BTECH Computer Science Student';
   static const String intro =
       'I can build web applications using Flask and Flutter.'
-      '\ Passoniate about creating software web apps and ui/ux designing. ';
+      '\nPassoniate about creating software web apps and ui/ux designing. ';
   static const String aboutMe =
       "Hi! I'm Anupama, a computer science engineering student from vidya academy of science and technology. "
       '\I have gained my experience in flutter and flask through several internships and workshops.'
@@ -66,8 +66,8 @@ class PortfolioData {
   // Contact
   static const String email    = 'anupamavasudevan10@gmail.com';
   static const String phone    = '+91 xxxxxxxxxx';
-  static const String linkedin = 'https://www.linkedin.com/in/anupama-vasudevan-b6b500379?utm_source=share_via&utm_content=profile&utm_medium=member_android';
-  static const String github   = 'https://github.com/Anupama061';
+  static const String linkedin = 'www.linkedin.com/in/anupama-vasudevan-b6b500379';
+  static const String github   = 'github.com/Anupama061';
 
   // Skills
   static const List<Skill> skills = [
